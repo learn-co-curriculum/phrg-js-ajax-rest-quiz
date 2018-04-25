@@ -60,3 +60,4 @@ We've learned about [REST](https://en.wikipedia.org/wiki/Representational_state_
 ## Resources
 
 - [Wikipedia: REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
+<p data-visibility='hidden'>PHRG REST Quiz</p>
